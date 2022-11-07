@@ -6,7 +6,7 @@ class _BotCommands:
         self.StartCommand = f'start{CMD_INDEX}'
         self.MirrorCommand = f'mirror2{CMD_INDEX}'
         self.UnzipMirrorCommand = f'unzipmirror2{CMD_INDEX}'
-        self.ZipMirrorCommand = f'zipmirro2{CMD_INDEX}'
+        self.ZipMirrorCommand = f'zipmirror2{CMD_INDEX}'
         self.CancelMirror = f'cancel2{CMD_INDEX}'
         self.CancelAllCommand = f'cancelall2{CMD_INDEX}'
         self.ListCommand = f'list2{CMD_INDEX}'
